@@ -1,0 +1,41 @@
+another	kh�c
+apple	quả táo
+baby	em bé
+bad	tồi
+basic	cơ bản
+believer	ni�?m tin
+boy	cậu bé
+clone	bản sao
+copy	sao chép
+cut	cắt
+data	dữ liệu
+date	ngày
+delete	xóa
+demon	ma quỷ
+diamond	kim cương
+dragon	rồng
+easy	đơn giản
+eight	số tám
+five	số năm
+four	số bốn
+game	trò chơi
+good	tốt
+happy	hạnh phúc
+hi	xin chào
+house	ngôi nhà
+legend	huy?n tho?i
+monster	quái vật
+natural	tự nhiên
+next	tiếp theo
+nine	số chín
+one	số một
+search	tìm kiếm
+seven	số bảy
+six	số sáu
+song	bài hát
+ten	số mư�?i
+three	số ba
+two	số hai
+water	nước
+year	năm
+zero	số không
