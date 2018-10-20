@@ -1,0 +1,44 @@
+age	tuổi tác
+another	khác
+append	nối vào
+apple	quả táo
+baby	em bé
+basic	cơ bản
+believer	niềm tin
+boy	cậu bé
+clone	bản sao
+copy	sao chép
+cut	cắt
+data	dữ liệu
+date	ngày
+delete	xóa
+demon	ma quỷ
+diamond	kim cương
+dragon	rồng
+easy	đơn giản
+eight	số tám
+five	số năm
+four	số bốn
+game	trò chơi
+good	tốt
+happy	hạnh phúc
+hello	xin chào
+holy	thánh
+house	ngôi nhà
+monster	quái vật
+natural	tự nhiên
+next	tiếp theo
+nine	số chín
+not good	tồi
+one	số một
+search	tìm kiếm
+seven	số bảy
+six	số sáu
+song	bài hát
+ten	số mười
+three	số ba
+two	số hai
+value	giá trị
+water	nước
+year	năm
+zero	số không
