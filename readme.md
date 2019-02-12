@@ -17,4 +17,4 @@
 	
 # Màn hình chính
 	<img src="https://i.imgur.com/sQUPmue.png">
-	[Github]https://github.com
+	![](https://i.imgur.com/sQUPmue.png "title") (&lt;img alt="title"/&gt;)
