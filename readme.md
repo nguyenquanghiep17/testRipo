@@ -12,8 +12,7 @@
 	- Khách hàng có nhu cầu mua sắm các thiết bị điện tử
 	
 # Mô tả:
--Sản phẩm là trang web giúp mua sắm thiết bị điện tử online
+	-Sản phẩm là trang web giúp mua sắm thiết bị điện tử online
 	-Có thể đăng bài để bán thiết bị điện tử (sẽ update trong tương lai)
-	
 # Màn hình chính
 	[test](https://github.com)
