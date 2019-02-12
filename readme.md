@@ -17,4 +17,4 @@
 	
 #Màn hình chính
 
-	<img src="https://imgur.com/a/Wxfy58N">
+	<img src="https://i.imgur.com/sQUPmue.png">
