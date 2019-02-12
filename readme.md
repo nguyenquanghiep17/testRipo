@@ -16,5 +16,5 @@
 	-Có thể đăng bài để bán thiết bị điện tử (sẽ update trong tương lai)
 	
 # Màn hình chính
-	![alt](http://http://mikemclin.net/mmwp/wp-content/uploads/2013/03/markdown-syntax-language.png)
+	![alt](http://mikemclin.net/mmwp/wp-content/uploads/2013/03/markdown-syntax-language.png)
 
