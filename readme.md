@@ -16,4 +16,4 @@
 	-Có thể đăng bài để bán thiết bị điện tử (sẽ update trong tương lai)
 	
 # Màn hình chính
-	[test](https://github.com/hocchudong/git-github-for-sysadmin)
+	[test](https://github.com)
