@@ -15,4 +15,4 @@
 	-Sản phẩm là trang web giúp mua sắm thiết bị điện tử online
 	-Có thể đăng bài để bán thiết bị điện tử (sẽ update trong tương lai)
 # Màn hình chính
-[test](https://github.com)
+![alt](http://http://mikemclin.net/mmwp/wp-content/uploads/2013/03/markdown-syntax-language.png)
