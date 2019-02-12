@@ -17,4 +17,4 @@
 	
 # Màn hình chính
 	<img src="https://i.imgur.com/sQUPmue.png">
-	![](https://i.imgur.com/sQUPmue.png "title") (&lt;img alt="title"/&gt;)
+	![Atom](https://atom.io/assets/packages-d16d6cc46fd0cf01842409577e782b74.gif)
